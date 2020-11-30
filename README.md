@@ -1,10 +1,10 @@
-Algorithm: Lempel-Ziv
-Programming Files: compression.py and decompression.py
-Input File: sample.txt
-Programming language: Python 3.6
-Software Used: Spyder
-Output of compression.py: sample.lzw
-Output of decompression.py: sample_decoded.txt
+Algorithm: Lempel-Ziv <br>
+Programming Files: compression.py and decompression.py <br>
+Input File: sample.txt <br>
+Programming language: Python 3.6 <br>
+Software Used: Spyder <br>
+Output of compression.py: sample.lzw <br>
+Output of decompression.py: sample_decoded.txt <br>
 
 Compression: The input file is compressed using the compression.py file. The size of sample input file is 73kb and the output i.e,compressed file(sample.lzw) is of 24kb. The data we get in the compressed file are the ascii values of the original data. The compressed file generated is in non-readable format.
 
