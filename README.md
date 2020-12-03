@@ -21,4 +21,10 @@
 3. Similary, for decompression, mention the path of the file in input variable and number of bits(which should be taken as input).
 4. Click on start symbol to run decompression.py file. The path of the file and its directory will appear in the console.
 
-After successful execution of the compression.py, we will get sample.lzw(compressed file) file in the folder. Similarly, after execution of decompression.py, we will get sample_decoded.txt(original file) file. 
+After successful execution of the compression.py, we will get sample.lzw(compressed file) file in the folder. Similarly, after execution of decompression.py, we will get sample_decoded.txt(original file) file. The generated output files are shown below: 
+
+![Screenshot (7)](https://user-images.githubusercontent.com/45633319/101056985-8b474f80-3559-11eb-9ece-c54fa2963815.png)
+
+The image of input sample file is shown below: 
+
+
