@@ -27,6 +27,7 @@ After successful execution of the compression.py, we will get sample.lzw(compres
 
 The image of input sample file is shown below: 
 
+![Screenshot (8)](https://user-images.githubusercontent.com/45633319/101059549-64d6e380-355c-11eb-9049-3bcca367c1f5.png)
 
 The image of the compressed file is shown below. It includes ascii value of the original text which is in non-readable format.
 
