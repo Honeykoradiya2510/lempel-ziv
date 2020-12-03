@@ -24,11 +24,11 @@
 After successful execution of the compression.py, we will get sample.lzw(compressed file) file in the folder. Similarly, after execution of decompression.py, we will get sample_decoded.txt(original file) file. The generated output files are shown below in the folder: 
 
 ![Screenshot (7)](https://user-images.githubusercontent.com/45633319/101056985-8b474f80-3559-11eb-9ece-c54fa2963815.png)
-
+<br><br>
 The image of input sample file is shown below: 
 
 ![Screenshot (8)](https://user-images.githubusercontent.com/45633319/101059549-64d6e380-355c-11eb-9049-3bcca367c1f5.png)
-
+<br><br>
 The image of the compressed file is shown below. It includes ascii value of the original text which is in non-readable format.
 
 ![Screenshot (9)](https://user-images.githubusercontent.com/45633319/101059244-0c9fe180-355c-11eb-95dd-a10b6fd53a19.png)
