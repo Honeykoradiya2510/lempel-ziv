@@ -1,3 +1,5 @@
+<b>Implementation of Lempel Ziv algorithm</b>
+
 <b> Algorithm:</b> Lempel-Ziv <br>
 <b> Programming Files: </b> compression.py and decompression.py <br>
 <b> Input File: </b> sample.txt <br>
