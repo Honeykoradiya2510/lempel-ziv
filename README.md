@@ -5,8 +5,8 @@
 <b> Input File: </b> sample.txt <br>
 <b> Programming language: </b> Python 3.6 <br>
 <b> Software Used: </b> Spyder <br>
-<b> Output of compression.py: </b> sample.lzw <br>
-<b> Output of decompression.py: </b> sample_decoded.txt <br>
+<b> Output of compression.py: </b> sample_compressed.lzw <br>
+<b> Output of decompression.py: </b> sample_decompressed.txt <br>
 
 <b> Compression: </b> The input file is compressed using the compression.py file. The size of sample input file is 73kb and the output i.e,compressed file(sample.lzw) is of 24kb. The data we get in the compressed file are the ascii values of the original data. The compressed file generated is in non-readable format.
 
@@ -15,7 +15,7 @@
 <b> Run file in command prompt: </b> 
 1. Set the directory to location where the file is stored in command prompt.
 2. To run compression.py write - python compression.py sample.txt("input text file") 256(number of bits)
-3. To run decompression.py write - python decompression.py sample.txt("input text file") 256(number of bits)
+3. To run decompression.py write - python decompression.py sample_compressed.lzw("input text file") 256(number of bits)
 
 <b> Run file in Spyder: </b> 
 1. Mention the path of the file in input variable and number of bits(which should be taken as input). 
@@ -23,7 +23,7 @@
 3. Similary, for decompression, mention the path of the file in input variable and number of bits(which should be taken as input).
 4. Click on start symbol to run decompression.py file. The path of the file and its directory will appear in the console.
 
-After successful execution of the compression.py, we will get sample.lzw(compressed file) file in the folder. Similarly, after execution of decompression.py, we will get sample_decoded.txt(original file) file. The generated output files are shown below in the folder: 
+After successful execution of the compression.py, we will get sample_compressed.lzw(compressed file) file in the folder. Similarly, after execution of decompression.py, we will get sample_decompressed.txt(original file) file. The generated output files are shown below in the folder: 
 
 ![Screenshot (7)](https://user-images.githubusercontent.com/45633319/101056985-8b474f80-3559-11eb-9ece-c54fa2963815.png)
 <br><br>
