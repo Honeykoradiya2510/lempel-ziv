@@ -33,5 +33,5 @@ The image of input sample file is shown below:
 <br><br>
 The image of the compressed file is shown below. It includes ascii value of the original text which is in non-readable format.
 
-![Screenshot (9)](https://user-images.githubusercontent.com/45633319/101059244-0c9fe180-355c-11eb-95dd-a10b6fd53a19.png)
+![Screenshot (12)](https://user-images.githubusercontent.com/45633319/101669012-533f8100-3a1f-11eb-8b03-e89a1b532589.png)
 
