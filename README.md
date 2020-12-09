@@ -25,7 +25,7 @@
 
 After successful execution of the compression.py, we will get sample_compressed.lzw(compressed file) file in the folder. Similarly, after execution of decompression.py, we will get sample_decompressed.txt(original file) file. The generated output files are shown below in the folder: 
 
-![Screenshot (13)](https://user-images.githubusercontent.com/45633319/101668805-0360ba00-3a1f-11eb-91d3-ba9ff6191d34.png)
+![Screenshot (15)](https://user-images.githubusercontent.com/45633319/101669246-ae717380-3a1f-11eb-9f78-036f32c8766b.png)
 <br><br>
 The image of input sample file is shown below: 
 
